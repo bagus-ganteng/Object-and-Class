@@ -10,7 +10,7 @@ namespace ConsoleApp1
             Taxi taxi = new Taxi();
 
             //set nilai properties
-            taxi.DriverName = "Jono";
+            taxi.DriverName = "Joni";
             taxi.OnDuty = true;
             taxi.NumPassenger = 10;
 
